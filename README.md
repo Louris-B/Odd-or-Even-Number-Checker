@@ -23,5 +23,5 @@ The value must be positive, please try again.
 
 ## Author:
 Louris Zyrael B. Bormuel
-8-Jasmie
+8-Jasmine
 
