@@ -16,9 +16,11 @@ Enter a positive whole number: 2
 
 2 is even.
 
+
 Enter a positive whole number: 5
 
 5 is odd.
+
 
 Enter a positive whole number: -5 
 
@@ -26,5 +28,6 @@ The value must be positive, please try again.
 
 ## Author:
 Louris Zyrael B. Bormuel
+
 8-Jasmine
 
